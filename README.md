@@ -1,8 +1,8 @@
-![][image1]
+<img src="https://github.com/docusign/roadmap/blob/main/dev_logo.png?raw=true" height="100" style="float: left;">
 
 # Docusign for Developers Roadmap
 
-# This is the public roadmap for Docusign for Developers.
+This is the public roadmap for Docusign for Developers.
 
 [See the roadmap here](http://github.com/orgs/docusign/projects/2/)
 
