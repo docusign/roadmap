@@ -8,7 +8,7 @@ This is the public roadmap for Docusign for Developers.
 
 This roadmap provides insight into our upcoming products and priorities, helping our developer community plan and align with our vision for building integrations across the entire agreement lifecycle. Here, you’ll find information about what we’re working on, and have the opportunity to provide direct feedback to shape the future of Docusign for Developers.
 
-Note: Docusign's [forward-looking statement](https://s22.q4cdn.com/408980645/files/doc_financials/2025/q2/FINAL-Q2-25-Quarterly-Earnings-Deck.pdf) applies to this roadmap. The development, release, timing and pricing of roadmap items may change at any time and remain at the sole discretion of Docusign. The information provided in the roadmap should not be relied upon for purchasing, investment, or other decisions. This roadmap is updated quarterly.
+Note: Docusign's [forward-looking statement](https://s22.q4cdn.com/408980645/files/doc_financials/2025/q3/Q325-Prepared-Remarks-FINAL.pdf) applies to this roadmap. The development, release, timing and pricing of roadmap items may change at any time and remain at the sole discretion of Docusign. The information provided in the roadmap should not be relied upon for purchasing, investment, or other decisions. This roadmap is updated quarterly.
 
 ## Scope
 
